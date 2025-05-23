@@ -1,0 +1,6 @@
+# Ignorar a pastas
+fair-shap/
+__pycache__/
+
+# Ignorar um arquivos
+psg.ipynb
