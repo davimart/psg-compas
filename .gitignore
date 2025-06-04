@@ -4,3 +4,5 @@ __pycache__/
 
 # Ignorar um arquivos
 psg.ipynb
+Imagens/arvore_d5_base.png
+*.png
